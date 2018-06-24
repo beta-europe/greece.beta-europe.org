@@ -51,7 +51,7 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 cms:
-  has_conference         : true
+  has_conference         : false
   
 # Related to Forum API
 forum_api: https://forum.beta-europe.org
