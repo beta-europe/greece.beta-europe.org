@@ -5,19 +5,22 @@ main:
 
   - title: Contact
     url: /contact/
-    
+
   - title: News
     url: /news/
 
   - title: Forum
     url: https://forum.beta-europe.org
-  
+
+  - title: Team
+    url: /team/
+
   - title: Partners
     url: /partner/
 
   # - title: Ultimate Conference Guide
   #   url: /guide/
-  
+
 teams:
   - title: BETA Teams
     children:
