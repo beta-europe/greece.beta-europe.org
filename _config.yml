@@ -52,7 +52,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 cms:
   has_conference         : false
-  
+
 # Related to Forum API
 forum_api: https://forum.beta-europe.org
 
@@ -89,20 +89,20 @@ author:
   name             : "BETA Greece"
   avatar           :  # path of avatar image, e.g. "/assets/images/beta-logo-180-transparent.png"
   bio              : "Bringing Europeans Together Association Greece"
-  location         :
+  location         : "Athens, Greece"
   email            : contact@greece.beta-europe.org
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "BringingEuropeansTogetherAssociation"
+  facebook         : "betagreece"
   foursquare       :
   github           : "orgs/beta-europe/teams/beta-greece"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        :"betagreece"
   lastfm           :
   linkedin         :
   pinterest        :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "BETA_Europe"
+  twitter          :
   vine             :
   weibo            :
   xing             :
@@ -242,7 +242,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-    
+
 # Collections
 collections:
   conferences:
