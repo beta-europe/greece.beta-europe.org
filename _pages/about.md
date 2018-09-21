@@ -1,5 +1,5 @@
 ---
-title: About BETA Greece
+title: About Us
 modified: 2018-02-09T23:00:00.000Z
 excerpt: About
 header:
