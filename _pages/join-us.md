@@ -20,4 +20,4 @@ We hope we can count on your help and support not only to ensure that this proj
 
 We encourage you to join us in this collective community effort to educate, engage and empower our youth.
 
-For more information, please get in-touch with the President of BETA Greece, Ms. Yogambigai Rajendra <mailto:yogam1991@gmail.com>
+For more information, please get in-touch with the President of BETA Greece, Ms. Yogambigai Rajendra: <mailto:yogam1991@gmail.com>
