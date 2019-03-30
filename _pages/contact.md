@@ -8,17 +8,17 @@ To contact BETA Greece, please refer to the links provided and pick the relevant
  channels.
 
 General inquiries should be directed to the Secretary of BETA Greece, Mr. Antonis
- Vasilakis-Kinalis [a.](mailto:antonisk.v1994@gmail.com)vasilakis@beta-europe.org.
+ Vasilakis-Kinalis, [a.vasilakis@beta-europe.org](a.vasilakis@beta-europe.org).
 
 Official contacts or requests to the Management Board should be addressed to the
- President of BETA Greece, Ms. Yogam Rajendra [y](mailto:yogam1991@gmail.com).rajendra@beta-europe.org
+ President of BETA Greece, Ms. Yogam Rajendra, [y.rajendra@beta-europe.org](y.rajendra@beta-europe.org)
 
 ## Become a Member
 
 An online membership form will soon be available.
 
 In the meantime, you can join us by sending a quick email to our President, Ms.
-Yogam Rajendra [y](mailto:yogam1991@gmail.com).rajendra@beta-europe.org, stating your interest in becoming a
+Yogam Rajendra [y.rajendra@beta-europe.org](y.rajendra@beta-europe.org), stating your interest in becoming a
  BETA Greece member.
 
 ## Get Engaged
@@ -32,4 +32,4 @@ You will gain valuable work experience and will be awarded a certification upon
  completion of your work!
 
 For any further inquiries on BETA Greece positions, please contact our President, Ms.
- Yogam Rajendra, y.rajendra@beta-europe.org
+ Yogam Rajendra, [y.rajendra@beta-europe.org](y.rajendra@beta-europe.org)
