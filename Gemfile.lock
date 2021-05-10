@@ -114,6 +114,3 @@ DEPENDENCIES
   jekyll (~> 3.6.2)
   minimal-mistakes-beta-jekyll (= 4.12.0.4.6)!
   tzinfo-data
-
-BUNDLED WITH
-   2.2.5
