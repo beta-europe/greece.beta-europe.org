@@ -26,7 +26,7 @@ comments:
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
-    server               : "forum.beta-europe.org" # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server               :  # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
@@ -54,7 +54,7 @@ cms:
   has_conference         : false
 
 # Related to Forum API
-forum_api: https://forum.beta-europe.org
+forum_api: #
 
 # SEO Related
 google_site_verification :
@@ -64,7 +64,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "BETA_Europe"
+  username               :
 facebook:
   username               :
   app_id                 :
