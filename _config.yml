@@ -186,7 +186,7 @@ sass:
 permalink: /:year/:month/:day/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /news/page:num/
-timezone: "Europe/Athens" # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: "Europe/Paris" # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
@@ -253,6 +253,14 @@ collections:
     title: Partners
     output: true
     permalink: "/partner/:path/"
+  members:
+    title: Members
+    output: true
+    permalink: "/member/:path/"
+  observers:
+    title: Observers
+    output: true
+    permalink: "/observer/:path/"
   teams:
     title: Teams
     output: true
@@ -261,6 +269,10 @@ collections:
     title: Pages
     output: true
     permalink: "/:slug/"
+  teammembers:
+    title: Teammembers
+    output: true
+    permalink: "/teammembers/:path/"
 
 # Defaults
 defaults:
@@ -317,6 +329,28 @@ defaults:
       share: true
       edit: true
       related: false
+  # _observers
+  - scope:
+      path: ''
+      type: observers
+    values:
+      layout: partner_page
+      author_profile: true
+      comments: false
+      share: true
+      edit: true
+      related: false
+  # _members
+  - scope:
+      path: ''
+      type: members
+    values:
+      layout: partner_page
+      author_profile: true
+      comments: false
+      share: true
+      edit: true
+      related: false
   # _teams
   - scope:
       path: ''
@@ -330,3 +364,14 @@ defaults:
       related: false
       sidebar:
         nav: teams
+  # _teammembers
+  - scope:
+      path: ''
+      type: teammembers
+    values:
+      layout: team_page
+      author_profile: true
+      comments: false
+      share: true
+      edit: true
+      related: false
