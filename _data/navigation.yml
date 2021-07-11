@@ -9,9 +9,6 @@ main:
   - title: News
     url: /news/
 
-  - title: Forum
-    url: https://forum.beta-europe.org
-
   - title: Team
     url: /team/
 
